@@ -36,7 +36,9 @@ When I start an art project I set up all the components I need for the task so I
 
 ### Golden Circle
 Why? <br/> I enjoy bringing happiness to others through sharing creativity and artistry skills.
+
 How? <br/> I want to design something that will influence imagination and creativity and allow that to be easily obtainable.
+
 What? <br/> I am an aspiring digital media artist that will focus on inovative ways to help people get creative.
 
 ### Elevator Pitch
