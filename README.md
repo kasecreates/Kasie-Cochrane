@@ -1,32 +1,40 @@
-<head>
-<ul>
+<html>
+  
+<h1>
+  
 # Kasie Cochrane's
-Professsional Developement 
+<br/>
 
-Last updated January 24, 2018
-
-Career Buddy: Sergio Rivera
-</head>
+# Professsional Developement 
+<h1/>
 
 <body>
   
-# My Links
-<ul>
-<li>
+Last updated January 24, 2018
+<br/>
+Career Buddy: Sergio Rivera
+  
+  # My Links
+  <ul>
+  <li>
   <a href="http://www.artkase.com"> Art Page </a>
   </li>
-
-<ul>
+<br/>
+<ul/>
 <li>
-  <a herf="https://www.linkedin.com/in/kasiecochrane315/"> =LinkedIn </a>
+  <a herf="https://www.linkedin.com/in/kasiecochrane315"> LinkedIn </a>
   </li>
-
-# ProDev Activities
-
+  
+<h2>
+  
+  # ProDev Activities
+  <h2/>
+  
 # Quantitative Accomplishments
 1. Successfully raised a daughter for the last 7 years.
 2. Experimented with more than 10 art mediums.
 3. Worked a total of 12 years building soft skills.
+<h4/>
 
 # Qualitative Features
 1. Punctual
