@@ -5,6 +5,7 @@ Career Buddy: Sergio Rivera
 
 # My Links
 <a href="http://www.artkase.com"> Art Page </a>
+
 <a herf="https://www.linkedin.com/in/kasiecochrane315/"> LinkedIn </a>
 
 # ProDev Activities
