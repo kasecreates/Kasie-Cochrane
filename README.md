@@ -6,21 +6,19 @@
 <br/>
 
 # Professsional Developement 
-<h1/>
+</h1>
 
 <body>
   
-Last updated January 24, 2018
-<br/>
-Career Buddy: Sergio Rivera
+Last updated January 24, 2018 <br/> Career Buddy: Sergio Rivera
   
   # My Links
  <li>
-  <a> href="http://www.artkase.com"> Art Page </a>
+  <a href="http://www.artkase.com"> Art Page </a>
    </li>
 
 <li>
- <a> herf="http://www.linkedin.com/in/kasiecochrane315"> LinkedIn </a>
+ <a href="http://www.linkedin.com/in/kasiecochrane315"> LinkedIn </a>
   </li>
   
 <h2>
