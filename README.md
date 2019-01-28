@@ -44,3 +44,6 @@ What? <br/> I am an aspiring digital media artist that will focus on inovative w
 ### Elevator Pitch
 Hi, my name is Kasie Cochrane. I am a digital media artist focusing on innovative ways to help people get creative. I feel it is important to bring joy and happiness to others through the process of creating. I want to work on a way to make "getting creative" realistic for all. Do you have any thoughts on that?
 <body/>
+
+### Week 1 Reflection
+Throughout the first week of the Digital Media bootcamp I designed a boared game with a group of talented people. I have realized that it is very benificial to have a diverse group of minds working on a project because of the different life experience and new ideas they bring to the table. Being the only female in the group I feel I have somewhat of a responsibility to work even harder and stive to learn and take in as much as I can during the bootcamp. I only hope I can meet my own expectations.
