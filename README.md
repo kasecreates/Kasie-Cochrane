@@ -28,16 +28,16 @@ Last updated January 24, 2018 <br/> Career Buddy: Sergio Rivera
 <h3>
   Quantitative Accomplishments
   </h3>
-1. Successfully raised a daughter for the last 7 years.
-2. Experimented with more than 10 art mediums.
+1. Successfully raised a daughter for the last 7 years.<br>
+2. Experimented with more than 10 art mediums.<br>
 3. Worked a total of 12 years building soft skills.
 
 <h3>
   Qualitative Features
   </h3>
-1. Punctual
-2. Creative Thinker
-3. Friendly
+1. Possitive but misconceived <br>
+2. Creative yet an overthinker <br>
+3. Diligent but sometimes confound
 
 <h3>
   Whole Brain Paragraph
@@ -47,11 +47,11 @@ When I start an art project I set up all the components I need for the task so I
 <h3>
   Golden Circle
   </h3>
-Why? <br/> I enjoy bringing happiness to others through sharing creativity and artistry skills.
+Why? <br> I enjoy bringing happiness to others through sharing creativity and artistry skills.
 
-How? <br/> I want to design something that will influence imagination and creativity and allow that to be easily obtainable.
+How? <br> I want to design something that will influence imagination and creativity and allow that to be easily obtainable.
 
-What? <br/> I am an aspiring digital media artist that will focus on inovative ways to help people get creative.
+What? <br> I am an aspiring digital media artist that will focus on inovative ways to help people get creative.
 
 <h3>
   Elevator Pitch
