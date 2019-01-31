@@ -25,6 +25,9 @@ Last updated January 31, 2018 <br/> Career Buddy: Sergio Rivera
   ProDev Activities
   </h2>
   
+  <h2>
+  Week One
+  </h2>
 <h3>
   Quantitative Accomplishments
   </h3>
@@ -47,9 +50,9 @@ When I start an art project I set up all the components I need for the task so I
 <h3>
   Golden Circle
   </h3>
-Why? <br> I enjoy bringing happiness to others through sharing creativity and artistry skills.
+Why? <br> I enjoy bringing happiness to others through sharing creativity and artistry skills. <br>
 
-How? <br> I want to design something that will influence imagination and creativity and allow that to be easily obtainable.
+How? <br> I want to design something that will influence imagination and creativity and allow that to be easily obtainable. <br>
 
 What? <br> I am an aspiring digital media artist that will focus on inovative ways to help people get creative.
 
@@ -63,3 +66,9 @@ Hi, my name is Kasie Cochrane. I am a digital media artist focusing on innovativ
   Week 1 Reflection
   </h3>
 Throughout the first week of the Digital Media bootcamp I designed a boared game with a group of talented people. I have realized that it is very benificial to have a diverse group of minds working on a project because of the different life experience and new ideas they bring to the table. Being the only female in the group I feel I have somewhat of a responsibility to work even harder and stive to learn and take in as much as I can during the bootcamp. I only hope I can meet my own expectations.
+
+<h2>
+  Week Two
+  </h2>
+  
+  
