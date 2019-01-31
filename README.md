@@ -8,7 +8,7 @@ Kasie Cochrane's
 
 <body>
   
-Last updated January 24, 2018 <br/> Career Buddy: Sergio Rivera
+Last updated January 31, 2018 <br/> Career Buddy: Sergio Rivera
   
  <h2>
   My Links
