@@ -74,7 +74,7 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
   <h3>
   Visuals Speak
   </h3>
-<img src="Kasie-Cochrane/visuals-speak.png"/>
+<img src=""/>
  
  The duck image is symbolizing myself as I go with the flow of things, unconfidently. I am more or less testing out the waters. The image of the woman has more of a demeanor and purpose. In three years, or so, I hope to be more comfortable with myself and I hope it shows. When it comes to my professionalism, instead of ridding myself of negativity or failure, may I continue to grow though everything I do and build on each experience.
  
@@ -82,13 +82,11 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
   Activity Chart
   </h3>
   
- <img src=" Kasie-Cochrane/Identity Chart.pdf"/> </br>
+ <img src=""/> </br>
  <h3>
   Summary
   </h3>
   Just looking at my online activity I would say that a recruiter will get that I am generally unexciting. I have the basic set up of social media and a few professional connections. I also do not have much of a tech portfolio because it is more of a fine arts background. The recruiter may take a chance on me since I am at the beginning of a digital media feild.  
   <h3>
- 
-    <a href="file:///C:/Users/User/Downloads/resume%202018.pdf"> Resume </a>
  
  </body>
