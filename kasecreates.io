@@ -21,6 +21,10 @@ Last updated January 31, 2018 <br/> Career Buddy: Sergio Rivera
  <a href="http://www.linkedin.com/in/kasiecochrane315"> LinkedIn </a>
   </li>
   
+  <li>
+  <a href=""> Resume </a>
+  </li> 
+  
  <h2>
   ProDev Activities
   </h2>
