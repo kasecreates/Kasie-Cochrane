@@ -75,7 +75,7 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
   Visuals Speak
   </h3>
   
- <img src="ProDev/visuals-speak.jpeg" alt="My Visuals Speak Image">
+ <img src=" Kasie-Cochrane/visuals-speak.jpg" alt="My Visuals Speak Image">
  
  The duck image is symbolizing myself as I go with the flow of things, unconfidently. I am more or less testing out the waters. The image of the woman has more of a demeanor and purpose. In three years, or so, I hope to be more comfortable with myself and I hope it shows. When it comes to my professionalism, instead of ridding myself of negativity or failure, may I continue to grow though everything I do and build on each experience.
  
