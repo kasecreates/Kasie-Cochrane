@@ -87,6 +87,9 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
   Summary
   </h3>
   Just looking at my online activity I would say that a recruiter will get that I am generally unexciting. I have the basic set up of social media and a few professional connections. I also do not have much of a tech portfolio because it is more of a fine arts background. The recruiter may take a chance on me since I am at the beginning of a digital media feild.  
-  <h3>
- 
+  
+ <h3>
+   Week Two Reflection
+  </h3>
+  During week two I stared making a commercial with the program Vyond. I really enjoyed the proccess and my final commercial came out very well. Although Vyond is limited on what can be done in the program I feel I definately learned a lot about story boarding, animation and scene development. My next venture is with Unity, a video game developing program. I am nervous for that one because I have heard of how challenging it can be. I will need to watch a ton of tutorials and research some techniques but I have no doubt that I can do this. I think that everything we are doing here in this bootcamp not only teaches us about the awesome programs we use but I realize how much work I have to do on my own, given that we have copius amounts of resources to use to get us where we want to be.
  </body>
