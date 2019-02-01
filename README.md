@@ -88,7 +88,7 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
   </h3>
   Just looking at my online activity I would say that a recruiter will get that I am generally unexciting. I have the basic set up of social media and a few professional connections. I also do not have much of a tech portfolio because it is more of a fine arts background. The recruiter may take a chance on me since I am at the beginning of a digital media feild.  
   <h3>
-  <li>
+ 
     <a href="file:///C:/Users/User/Downloads/resume%202018.pdf"> Resume </a>
-  </li>
+ 
  </body>
