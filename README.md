@@ -82,4 +82,5 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
   Activity Chart
   </h3>
   
+ <img src=" Kasie-Cochrane/Identity Chart.pdf"/>
  </body>
