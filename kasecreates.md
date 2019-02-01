@@ -86,7 +86,7 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
   Activity Chart
   </h3>
   
- <img src=""/> </br>
+ <img src="Activity-Chart.png"/> </br>
  <h3>
   Summary
   </h3>
