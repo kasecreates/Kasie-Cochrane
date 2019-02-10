@@ -114,7 +114,7 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
   Cooking Up Opportunity
   </h3>
   
-  <img src="stovetop.png"/></br>
+  <img style="width:60vw" src="stovetop.jpg"/></br>
   <h3>
   Two Orgs
   </h3>
