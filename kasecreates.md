@@ -106,5 +106,30 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
    Week Two Reflection
   </h3>
   During week two I stared making a commercial with the program Vyond. I really enjoyed the proccess and my final commercial came out very well. Although Vyond is limited on what can be done in the program I feel I definately learned a lot about story boarding, animation and scene development. My next venture is with Unity, a video game developing program. I am nervous for that one because I have heard of how challenging it can be. I will need to watch a ton of tutorials and research some techniques but I have no doubt that I can do this. I think that everything we are doing here in this bootcamp not only teaches us about the awesome programs we use but I realize how much work I have to do on my own, given that we have copius amounts of resources to use to get us where we want to be.
+  
+  <h2>
+  Week Three
+  </h2>
+  <h3>
+  Cooking Up Opportunity
+  </h3>
+  
+  <img src="stovetop.png"/></br>
+  <h3>
+  Two Orgs
+  </h3>
+  
+<li>
+  <a href="https://ideum.com/about/team"> Ideum </a>
+  </li>
+  
+<li>
+  <a href="https://jobs.meowwolf.com/"> Meow Wolf </a>
+  </li>
+  
+<h3>
+  Week Three Reflection
+  </h3>
+  Week three was getting projects started that I am interested in and as well as video game building with Unity. In unity I used a packaged game I was able to download and create my own levels with using the pre-coded sprites. I created a maze game with many dead ends and obsticals to throw off the player. There were pre-coded enemies I was able to utilize to challenge the players, as well. My sister, brother-in-law and daughter tested my game and were equally impressed and entertained. I began and continued many projects in week three, such as digital artwork for signage to be put up at the CNM Rio Rancho campus and a audio visualization interactive display for Explora, as well as helping other digital media students on some of their projects. I feel we are getting into the good stuff as we go into week four. I am prepared to be challenged and look forward to learning about some cool software I can use to further my experience.
  </body>
 </html>
