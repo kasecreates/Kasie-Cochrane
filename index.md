@@ -6,7 +6,7 @@
 <body>  
 <h1>
 Kasie Cochrane's
-<br/>
+
  Professional Development 
 </h1>
   
@@ -30,9 +30,11 @@ Last updated February 5, 2018 <br/> Career Buddy: Sergio Rivera
   <h3>
   Learning Style
   </h3>
- Auditory: 40% </br>
- Visual: 50% </br>
- Tactile: 10% </br>
+ Auditory: 40% 
+ 
+ Visual: 50%
+ 
+ Tactile: 10% 
  
  <h2>
   ProDev Activities
@@ -63,16 +65,23 @@ When I start an art project I set up all the components I need for the task so I
 <h3>
   Golden Circle
   </h3>
-Why? <br> I enjoy bringing happiness to others through sharing creativity and artistry skills. <br>
+  
+Why?
 
-How? <br> I want to design something that will influence imagination and creativity and allow that to be easily obtainable. <br>
+I enjoy bringing happiness to others through sharing creativity and artistry skills. <br>
 
-What? <br> I am an aspiring digital media artist that will focus on inovative ways to help people get creative.
+How? 
+
+I want to design something that will influence imagination and creativity and allow that to be easily obtainable. <br>
+
+What? 
+
+I am an aspiring digital media artist that will focus on inovative ways to help people get creative.
 
 <h3>
   Elevator Pitch
   </h3>
-Hi, my name is Kasie Cochrane. I am a digital media artist focusing on innovative ways to help people get creative. I feel it is important to bring joy and happiness to others through the process of creating. I want to work on a way to make "getting creative" realistic for all. Do you have any thoughts on that?
+  Hi, my name is Kasie Cochrane. I am a digital media artist focusing on innovative ways to help people get creative. I feel it is important to bring joy and happiness to others through the process of creating. I want to work on a way to make "getting creative" realistic for all. Do you have any thoughts on that?
 <body/>
 
 <h3>
@@ -88,14 +97,14 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
   Visuals Speak
   </h3>
 <img style="width:60vw" src="visuals-speak.png"/>
-  </br>
+ 
  The duck image is symbolizing myself as I go with the flow of things, unconfidently. I am more or less testing out the waters. The image of the woman has more of a demeanor and purpose. In three years, or so, I hope to be more comfortable with myself and I hope it shows. When it comes to my professionalism, instead of ridding myself of negativity or failure, may I continue to grow though everything I do and build on each experience.
  
  <h3>
   Activity Chart
   </h3>
   
- <img src="Identity-Chart.png"/> </br>
+ <img src="Identity-Chart.png"/> 
  <h3>
   Summary
   </h3>
@@ -113,7 +122,7 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
   Cooking Up Opportunity
   </h3>
   
-  <img style="width:60vw" src="stovetop.jpg"/></br>
+  <img style="width:60vw" src="stovetop.jpg"/>
   <h3>
   Two Orgs
   </h3>
