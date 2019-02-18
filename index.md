@@ -10,7 +10,7 @@ Kasie Cochrane's
  Professional Development 
 </h1>
   
-Last updated February 5, 2018 <br/> Career Buddy: Sergio Rivera
+Last updated February 17, 2019 <br/> Career Buddy: Sergio Rivera
   
  <h2>
   My Links
@@ -24,7 +24,7 @@ Last updated February 5, 2018 <br/> Career Buddy: Sergio Rivera
   </li>
   
   <li>
-  <a href="resume-2018.pdf"> Resume </a>
+  <a href="Kasie_Cochrane_resume_2019.pdf"> Resume </a>
   </li> 
   
   <h3>
@@ -139,5 +139,20 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
   Week Three Reflection
   </h3>
   Week three was getting projects started that I am interested in and as well as video game building with Unity. In unity I used a packaged game I was able to download and create my own levels with using the pre-coded sprites. I created a maze game with many dead ends and obsticals to throw off the player. There were pre-coded enemies I was able to utilize to challenge the players, as well. My sister, brother-in-law and daughter tested my game and were equally impressed and entertained. I began and continued many projects in week three, such as digital artwork for signage to be put up at the CNM Rio Rancho campus and a audio visualization interactive display for Explora, as well as helping other digital media students on some of their projects. I feel we are getting into the good stuff as we go into week four. I am prepared to be challenged and look forward to learning about some cool software I can use to further my experience.
+  
+  <h2>
+  Week Four
+  </h2>
+  
+  <h3>
+  Forbidden Island team Activity Reflection
+  </h3>
+  Upon opening the game I was not sure what to expect. There were so many peices and documentation I felt like it was a good idea to run over the rules as a team first, then we were able to distinguish how to begin. Throughout the game we referred to the manual and discussed every move before we made one as a team to determine what would be best long term and short term. I feel like I played an observer role for the most part, thinking through the moves in my head and when I would notice something that may change the game I would introduce the idea to my team and we would then come to a consensus. Overall, this game was a lot of fun and because of our communication skills and teamwork we were able to beat the game.
+  
+<h3>
+  Week Four Reflection
+  </h3>
+  During week four, I started to feel how full my plate was getting. I'm not sure if I was overconfident or if Im only second guessing my abilities as an artist now. Either way I can see how far I still have to come. It seems like the seemingly little things can take three to four times as long as I intended. I guess that is what the learning process intails. I am all for it though. This just makes me not want to stop learning and doing. I may be getting carried away because I am forgetting to take care of myself (mentally and physically) during the difficult projects. Im working on it all continuously and trying not to let myself down. Looking forward to week five.
+  
  </body>
 </html>
