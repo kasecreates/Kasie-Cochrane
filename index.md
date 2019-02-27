@@ -154,5 +154,14 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
   </h3>
   During week four, I started to feel how full my plate was getting. I'm not sure if I was overconfident or if Im only second guessing my abilities as an artist now. Either way I can see how far I still have to come. It seems like the seemingly little things can take three to four times as long as I intended. I guess that is what the learning process intails. I am all for it though. This just makes me not want to stop learning and doing. I may be getting carried away because I am forgetting to take care of myself (mentally and physically) during the difficult projects. Im working on it all continuously and trying not to let myself down. Looking forward to week five.
   
+  <h2>
+  Week Five
+  </h2>
+  
+  <h3>
+  Week Five Reflection
+  </h3>
+    Week five went by so quickly. I think I can say I progressed efficiently though. I introduced myself as a Digital Media Intern at the NMTC meet up on Thursday. I networked with some amazing women in Tech. I stepped out of my comfort zone if only for a moment. I want to shout out to Brittany, my captain, she encouraged me to do so. Also I want to shout out to my sister, Noel, without her strength and commitment in her career journey, I wouldn't have found my own strength and couriosity.
+    
  </body>
 </html>
