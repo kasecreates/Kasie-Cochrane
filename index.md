@@ -163,5 +163,14 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
   </h3>
     Week five went by so quickly. I think I can say I progressed efficiently though. I introduced myself as a Digital Media Intern at the NMTC meet up on Thursday. I networked with some amazing women in Tech. I stepped out of my comfort zone if only for a moment. I want to shout out to Brittany, my captain, she encouraged me to do so. Also I want to shout out to my sister, Noel, without her strength and commitment in her career journey, I wouldn't have found my own strength and couriosity.
     
+<h2>
+  Week Six
+  </h2>
+  
+<h3>
+  Week Six Reflection
+  </h3>
+  Week six was a great milestone. I had a lot of catching up to do in terms of finishing projects or at least coming close to fininshing some. I am starting to focus on getting my capstone project together and building an actual portfolio. This may take a while. The weeks are flying by and I feel like there is just so much more to wrap my head around. There are 6 weeks left of bootcamp... then starts the rest of my life.
+  
  </body>
 </html>
