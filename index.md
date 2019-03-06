@@ -24,7 +24,7 @@ Last updated February 17, 2019 <br/> Career Buddy: Sergio Rivera
   </li>
   
   <li>
-  <a href="Kasie_Cochrane_resume2019.pdf"> Resume </a>
+  <a href="resume_Kasie_Cochrane2019.pdf"> Resume </a>
   </li> 
   
   <h3>
