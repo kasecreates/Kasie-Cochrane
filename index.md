@@ -31,9 +31,7 @@ Last updated February 17, 2019 <br/> Career Buddy: Sergio Rivera
   Learning Style
   </h3>
  Auditory: 40% 
- 
  Visual: 50%
- 
  Tactile: 10% 
  
  <h2>
@@ -138,7 +136,7 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
 <h3>
   Week Three Reflection
   </h3>
-  Week three was getting projects started that I am interested in and as well as video game building with Unity. In unity I used a packaged game I was able to download and create my own levels with using the pre-coded sprites. I created a maze game with many dead ends and obsticals to throw off the player. There were pre-coded enemies I was able to utilize to challenge the players, as well. My sister, brother-in-law and daughter tested my game and were equally impressed and entertained. I began and continued many projects in week three, such as digital artwork for signage to be put up at the CNM Rio Rancho campus and a audio visualization interactive display for Explora, as well as helping other digital media students on some of their projects. I feel we are getting into the good stuff as we go into week four. I am prepared to be challenged and look forward to learning about some cool software I can use to further my experience.
+  Week three was getting projects started that I am interested in and as well as video game building with Unity. In unity I used a packaged game I was able to download and create my own levels using the pre-coded sprites. I created a maze game with many dead ends and obsticals to throw off the player. There were pre-coded enemies I was able to utilize to challenge the players, as well. My sister, brother-in-law and daughter tested my game and were equally impressed and entertained. I began and continued many projects in week three, such as digital illustrations for signage to be put up at the CNM Rio Rancho campus and a audio visualization interactive display for Explora, as well as helping other digital media students on some of their projects. I feel we are getting into the good stuff as we go into week four. I am prepared to be challenged and look forward to learning about some cool software I can use to further my experience.
   
   <h2>
   Week Four
@@ -170,7 +168,15 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
 <h3>
   Week Six Reflection
   </h3>
-  Week six was a great milestone. I had a lot of catching up to do in terms of finishing projects or at least coming close to fininshing some. I am starting to focus on getting my capstone project together and building an actual portfolio. This may take a while. The weeks are flying by and I feel like there is just so much more to wrap my head around. There are 6 weeks left of bootcamp... then starts the rest of my life.
+  Week six was a great milestone. I had a lot of catching up to do in terms of finishing projects or at least coming close to fininshing some. I am starting to focus on getting my capstone project together and building an actual portfolio. This may take a while. The weeks are flying by and I feel like there is just so much more to wrap my head around. There are 6 weeks left of bootcamp... then the rest of my life.
   
+<h2>
+  Week Seven
+  </h2>
+  
+<h3>
+  Week Seven Reflection
+  </h3>
+  Week Seven I felt my confidence build. I finished editing a couple of videos, continued work on the Nature Walk project, and completed the Explora project (which turned out to be cooler than I thought). I have found that I thoroughly enjoy video editing and plan to work on some more projects utilizing my new skills and push myself to learn and explore more about it. I started to build my portfolio website and I am excited to work on it and some coding skills (can always use a bit of those). In week seven we also got to take a trip to Century 14 movie theatre and watch the new 'How to Train Your Dragon' movie. The computer graphics in that movie were beautifully done and inspires my curiosity. Before this bootcamp I don't remember getting excitingly curious about anything enuogh to pursue research and understanding of the matter. I am amazed and proud of how far I have come in just these short weeks.
  </body>
 </html>
