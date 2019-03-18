@@ -24,7 +24,7 @@ Last updated February 17, 2019 <br/> Career Buddy: Sergio Rivera
   </li>
   
   <li>
-  <a href="resume_Kasie_Cochrane2019.pdf"> Resume </a>
+  <a href="Kasie_Cochrane_resume_2019.pdf"> Resume </a>
   </li> 
   
   <h3>
@@ -178,5 +178,15 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
   Week Seven Reflection
   </h3>
   Week Seven I felt my confidence build. I finished editing a couple of videos, continued work on the Nature Walk project, and completed the Explora project (which turned out to be cooler than I thought). I have found that I thoroughly enjoy video editing and plan to work on some more projects utilizing my new skills and push myself to learn and explore more about it. I started to build my portfolio website and I am excited to work on it and some coding skills (can always use a bit of those). In week seven we also got to take a trip to Century 14 movie theatre and watch the new 'How to Train Your Dragon' movie. The computer graphics in that movie were beautifully done and inspires my curiosity. Before this bootcamp I don't remember getting excitingly curious about anything enuogh to pursue research and understanding of the matter. I am amazed and proud of how far I have come in just these short weeks.
+  
+<h2>
+  Week Eight
+  </h2>
+ 
+ <h3>
+  Week Eight Reflection
+  </h3>
+  This past week is a blur. I am feeling symptoms of imposter syndrome more this week than I have in any previous weeks. I thought I would be in a more secure place but I don't feel that at the moment. This may be because I only have four weeks left and I can just about see the end of the bootcamp, and I am still unsure of what that means. I have so much more that I want to learn and projects I want to do before this cohort ends. I really need to hone in on what I want to do and figure out where I want to take my new career path.
+  
  </body>
 </html>
