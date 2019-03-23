@@ -188,5 +188,14 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
   </h3>
   This past week is a blur. I am feeling symptoms of imposter syndrome more this week than I have in any previous weeks. I thought I would be in a more secure place but I don't feel that at the moment. This may be because I only have four weeks left and I can just about see the end of the bootcamp, and I am still unsure of what that means. I have so much more that I want to learn and projects I want to do before this cohort ends. I really need to hone in on what I want to do and figure out where I want to take my new career path.
   
+<h2>
+  Week Nine
+  </h2>
+  
+<h3>
+  Week Nine Reflection
+  </h3>
+  I'm going to take this opportunity to freak out just a minute.. Who knew I would be interested in the Digital Media feild, much less make my way to these final weeks of Deep Dive Digital Media Bootcamp. Interview day in now less than a week away and shortly after I will be graduating. I still feel as if I have only skimmed the surface of the awesome software I have been using in this course. I continue to get ideas for future projects and I realise how much I want to keep working with these talented people. Again, there is so much I still need to do and learn before I am ready to be out there in the industry, but maybe thats just the imposter syndrome talking.
+  
  </body>
 </html>
