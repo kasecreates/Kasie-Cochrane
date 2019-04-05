@@ -197,5 +197,13 @@ Throughout the first week of the Digital Media bootcamp I designed a boared game
   </h3>
   I'm going to take this opportunity to freak out just a minute.. Who knew I would be interested in the Digital Media feild, much less make my way to these final weeks of Deep Dive Digital Media Bootcamp. Interview day in now less than a week away and shortly after I will be graduating. I still feel as if I have only skimmed the surface of the awesome software I have been using in this course. I continue to get ideas for future projects and I realise how much I want to keep working with these talented people. Again, there is so much I still need to do and learn before I am ready to be out there in the industry, but maybe thats just the imposter syndrome talking.
   
+<h2>
+  Week Ten
+  </h2>
+  
+  <h3>
+  Week Ten Reflection
+  </h3>
+  Week ten? When did that happen? I do feel like I have successfully wrapped up a few projects. I have also found that I am more interested in digital illustration, animation, video editing, augmented reality, and production. I feel I have taken a leadership role in many projects throughout this bootcamp. Although, I am very anxious about the last two week, I am excited to see what is to come. Here we go.
  </body>
 </html>
